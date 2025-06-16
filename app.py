@@ -1,3 +1,4 @@
+# t5-base model
 from transformers import pipeline
 import gradio as gr
 
