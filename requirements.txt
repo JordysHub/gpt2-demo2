@@ -1,6 +1,7 @@
 ipython
-pandas
 pytest
 pytest-cov
 black
 pylint
+transformers
+gradio
