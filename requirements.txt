@@ -3,5 +3,7 @@ pytest
 pytest-cov
 black
 pylint
+
 transformers
 gradio
+torch
